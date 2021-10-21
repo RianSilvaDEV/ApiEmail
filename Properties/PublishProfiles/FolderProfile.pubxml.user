@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\jeanc\Desktop\Rian\Testes\ApiSendEmail\Publish</_PublishTargetUrl>
+    <History>True|2021-10-21T19:29:15.0380969Z;True|2021-10-21T15:58:57.2991749-03:00;</History>
+  </PropertyGroup>
+</Project>
