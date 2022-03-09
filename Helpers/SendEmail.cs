@@ -13,9 +13,9 @@ namespace ApiSendEmail.Helpers
         {
             try
             {
-                var fromAddress = new MailAddress("ryanapare321@gmail.com", "RianDev");
+                var fromAddress = new MailAddress("", "RianDev");
                 var toAddress = new MailAddress(_email, "");
-                string fromPassword = "Gdcr20200";
+                string fromPassword = "";
                 string subject = _subject;
                 string body = _message;
 
